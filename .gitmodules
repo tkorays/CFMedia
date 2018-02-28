@@ -1,0 +1,3 @@
+[submodule "CFAST"]
+	path = CFAST
+	url = git@github.com:tkorays/CFAST.git
